@@ -9,7 +9,7 @@
 * Java, Spring Core, Spring Boot, Spring MVC, Spring Data JPA
 * Hibernate, JBC, SQL, PostgreSQ
 * Junit, SLF4
-* Git, Maven, oc$e
+* Git, Maven, Docker
 * JavaFx, HTML/CSS
 
 ### Контакты
