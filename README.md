@@ -8,12 +8,12 @@
 ### Навыки
 * Java, Spring Core, Spring Boot, Spring MVC, Spring Data JPA
 * Hibernate, JBC, SQL, PostgreSQ
-* Junit, SLF4
+* Junit, SLF4J
 * Git, Maven, Docker
 * JavaFx, HTML/CSS
 
 ### Контакты
-* +7-(927)-031-17-30
+* +79270311730
 * vit-1998@inbox.ru
 * tg @maslynem
 * Казань
