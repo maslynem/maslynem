@@ -7,7 +7,7 @@
 
 ### Навыки
 * Java, Spring Core, Spring Boot, Spring MVC, Spring Data JPA
-* Hibernate, JBC, SQL, PostgreSQ
+* Hibernate, JDBC, SQL, PostgreSQ
 * Junit, SLF4J
 * Git, Maven, Docker
 * JavaFx, HTML/CSS
