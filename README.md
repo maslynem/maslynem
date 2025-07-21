@@ -6,11 +6,11 @@
 * КГМУ, Диплом с отличием по специальности "Лечебное дело" (2022)
 
 ### Навыки
-* Java, Spring Core, Spring Boot, Spring MVC, Spring Data JPA
-* Hibernate, JDBC, SQL, PostgreSQL
-* Junit, SLF4J
-* Git, Maven, Docker
-* JavaFx, HTML/CSS
+* Java, Spring Boot, 
+* Hibernate, PostgreSQL, Liquibase
+* Kafka
+* Git, Maven/Gradle, Docker/Podman
+* Jira, Confluence, Bitbacket, Jenkins
 
 ### Контакты
 * +79270311730
